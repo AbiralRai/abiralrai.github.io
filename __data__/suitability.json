@@ -1,0 +1,157 @@
+{
+  "text_qualification": "We have assessed these for investments not within superannuation. To see within superannuation",
+  "text_answer_heading": "Based on your answers, the following providers may be suitable: ",
+  "notification": "Click the structure/provider above to see why it is/is not suitable",
+  "categories": [
+    {
+      "name": "21st Century Structures",
+      "subcategories": [
+        {
+          "name": "Nucleus Wealth",
+          "id": 1,
+          "suitability": "YES",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I don't have any experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I don't have any experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        },
+        {
+          "name": "Online Broker",
+          "id": 2,
+          "suitability": "NO",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I have alot of experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        },
+        {
+          "name": "Robo Advise",
+          "id": 3,
+          "suitability": "UNSURE",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I have an average amount of experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Traditional Structures",
+      "subcategories": [
+        {
+          "name": "Stock Broker",
+          "id": 4,
+          "suitability": "YES",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I have an average amount of experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        },
+        {
+          "name": "Financial Planner",
+          "id": 5,
+          "suitability": "NO",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I have an average amount of experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        },
+        {
+          "name": "Managed Funds/Listed Invest. Companies",
+          "id": 6,
+          "suitability": "NO",
+          "reasons": [
+            {
+              "question_id": 1,
+              "question_text": "How much do you know about investing",
+              "answer_id": 3,
+              "answer_text": "I have an average amount of experience",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            },
+            {
+              "question_id": 2,
+              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+              "answer_id": 3,
+              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
+              "reason_text": "Some text to explain why suitable/not suitable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
