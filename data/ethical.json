@@ -1,0 +1,110 @@
+{
+  "ethic_group": [
+    {
+      "name": "Animal Right",
+      "ethical_choice": [
+        {
+          "name": "No Animal Testing (Any):",
+          "more_info": "Removes companies that test products on animals according to Peta. NOTE: This will remove many healthcare companies who are mandated by law to test on animals. Healthcare makes up a relatively large proportion of our portfolios. The 'No Animal Testing (Worst Offenders)' version only does not remove companies who test for medical reasons.",
+          "answer_text": false,
+          "popularity_chart": {
+            "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z:",
+            "hAxis_data": "Ranking (1 = most popular)",
+            "data": [
+              [
+                "Type",
+                "Superannuation Investors",
+                "Non-Superannuation Investors",
+                "People who answered survey"
+              ],
+              ["All", 14, 15, 15],
+              ["Female", 15, 18, 13],
+              ["Male", 16, 13, 15],
+              ["Non-Binary/Other", 1, 7, 20],
+              ["Gen-Z", 20, 20, 20],
+              ["Millennial", 15, 13, 13],
+              ["Gen X", 14, 17, 14],
+              ["Baby Boomers", 14, 17, 14],
+              ["Silent Generation", 6, 6, 8]
+            ]
+          },
+          "removed_stocks_chart": [
+            [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            ["All", 0.0863787375415282, 0.0825852782764811, 0.202755905511811],
+            ["Female", 0.155555555555555, 0.0895522388059701, 0.3125],
+            ["Male", 0.07421875, 0.0805687203791469, 0.18075117370892],
+            ["Non-Binary/Other", 0, 0, 1],
+            ["Gen-Z", 0, 0, 0.25],
+            [
+              "Millennial",
+              0.0564516129032258,
+              0.0980392156862745,
+              0.205298013245033
+            ],
+            ["Gen X", 0.114285714285714, 0.052, 0.194444444444444],
+            [
+              "Baby Boomers",
+              0.0833333333333333,
+              0.119718309859154,
+              0.21259842519685
+            ],
+            ["Silent Generation", 0, 0.125, 0.142857142857142]
+          ]
+        },
+        {
+          "name": "No Animal Testing (Worst Offenders):",
+          "more_info": "Removes companies that test products on animals for non medical purposes.",
+          "answer_text": true,
+          "popularity_chart": {
+            "message": "This filter is quite popular among our investors. It is more popular for Millennials, less popular for Silent Generation:",
+            "hAxis_data": "Ranking (1 = most popular)",
+            "data": [
+              [
+                "Type",
+                "Superannuation Investors",
+                "Non-Superannuation Investors",
+                "People who answered survey"
+              ],
+              ["All", 5, 6, 6],
+              ["Female", 5, 10, 7],
+              ["Male", 5, 5, 5],
+              ["Non-Binary/Other", 2, 6, 20],
+              ["Gen-Z", 13, 13, 13],
+              ["Millennial", 5, 5, 4],
+              ["Gen X", 5, 6, 6],
+              ["Baby Boomers", 8, 10, 7],
+              ["Silent Generation", 14, 14, 14]
+            ]
+          },
+          "removed_stocks_chart": [
+            [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            ["All", 0.225913621262458, 0.219030520646319, 0.37007874015748],
+            ["Female", 0.311111111111111, 0.231343283582089, 0.4625],
+            ["Male", 0.2109375, 0.21563981042654, 0.352112676056338],
+            ["Non-Binary/Other", 0, 0, 1],
+            ["Gen-Z", 0, 0, 0.375],
+            [
+              "Millennial",
+              0.209677419354838,
+              0.254901960784313,
+              0.403973509933774
+            ],
+            ["Gen X", 0.235714285714285, 0.188, 0.342592592592592],
+            ["Baby Boomers", 0.23, 0.246478873239436, 0.393700787401574],
+            ["Silent Generation", 0, 0.125, 0]
+          ]
+        }
+      ]
+    }
+  ]
+}
