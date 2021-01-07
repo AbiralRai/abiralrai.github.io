@@ -1,0 +1,79 @@
+{
+  "count": 10,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "ethics": [
+        {
+          "id": 2,
+          "ethical_question": "No Fossil Fuels (Worst Offenders)",
+          "description": "Removes the worst polluters, in particular, companies that use Lignite coal or create oil from Tar Sands",
+          "position": 1,
+          "hidden": false,
+          "ethic_group": 1
+        },
+        {
+          "id": 3,
+          "ethical_question": "No Fossil Fuels (Any)",
+          "description": "Removes companies where more than 10% of the company is involved in coal, oil or gas",
+          "position": 2,
+          "hidden": false,
+          "ethic_group": 1
+        },
+        {
+          "id": 16,
+          "ethical_question": "No Coal Seam Gas or Fracking",
+          "description": "Removes companies who are involved in Coal Seam Gas extraction and fracking",
+          "position": 3,
+          "hidden": false,
+          "ethic_group": 1
+        },
+        {
+          "id": 8,
+          "ethical_question": "No Nuclear",
+          "description": "Removes companies with Nuclear power stations or producers of Uranium",
+          "position": 4,
+          "hidden": false,
+          "ethic_group": 1
+        },
+        {
+          "id": 18,
+          "ethical_question": "No Old Growth Forest Logging",
+          "description": "Remove companies that are involved with logging Old Growth Forests",
+          "position": 5,
+          "hidden": false,
+          "ethic_group": 1
+        }
+      ],
+      "name": "Climate Change",
+      "position": 1,
+      "hidden": false
+    },
+    {
+      "id": 2,
+      "ethics": [
+        {
+          "id": 6,
+          "ethical_question": "No Arms (Worst Offenders)",
+          "description": "Removes companies that are known to produce cluster munitions and landmines",
+          "position": 20,
+          "hidden": false,
+          "ethic_group": 2
+        },
+        {
+          "id": 7,
+          "ethical_question": "No Arms (Any)",
+          "description": "Removes companies that are known to directly produce weapons or ammunition",
+          "position": 21,
+          "hidden": false,
+          "ethic_group": 2
+        }
+      ],
+      "name": "War",
+      "position": 2,
+      "hidden": false
+    }
+  ]
+}
