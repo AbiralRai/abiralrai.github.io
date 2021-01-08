@@ -49,7 +49,8 @@
       ],
       "name": "Climate Change",
       "position": 1,
-      "hidden": false
+      "hidden": false,
+      "image": "https://portal.nucleuswealth.com/img/ethics-Climate%20Change.png?1608087693"
     },
     {
       "id": 2,
@@ -73,7 +74,8 @@
       ],
       "name": "War",
       "position": 2,
-      "hidden": false
+      "hidden": false,
+      "image": "https://portal.nucleuswealth.com/img/ethics-War.png?1608087693"
     }
   ]
 }
