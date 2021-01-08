@@ -35,7 +35,7 @@
           "ethical_question": "No Nuclear",
           "description": "Removes companies with Nuclear power stations or producers of Uranium",
           "position": 4,
-          "hidden": false,
+          "hidden": true,
           "ethic_group": 1
         },
         {
@@ -68,7 +68,7 @@
           "ethical_question": "No Arms (Any)",
           "description": "Removes companies that are known to directly produce weapons or ammunition",
           "position": 21,
-          "hidden": false,
+          "hidden": true,
           "ethic_group": 2
         }
       ],
