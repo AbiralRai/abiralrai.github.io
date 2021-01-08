@@ -43,7 +43,7 @@
           "ethical_question": "No Old Growth Forest Logging",
           "description": "Remove companies that are involved with logging Old Growth Forests",
           "position": 5,
-          "hidden": false,
+          "hidden": true,
           "ethic_group": 1
         }
       ],
