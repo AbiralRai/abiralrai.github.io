@@ -1,216 +1,1265 @@
 {
   "ethic_group": [
     {
-      "name": "Animal Right",
       "ethical_choice": [
         {
-          "name": "No Animal Testing (Any):",
-          "more_info": "Removes companies that test products on animals according to Peta. NOTE: This will remove many healthcare companies who are mandated by law to test on animals. Healthcare makes up a relatively large proportion of our portfolios. The 'No Animal Testing (Worst Offenders)' version only does not remove companies who test for medical reasons.",
-          "answer_text": false,
           "popularity_chart": {
-            "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z:",
-            "hAxis_data": "Ranking (1 = most popular)",
-            "data": [
-              [
-                "Type",
-                "Superannuation Investors",
-                "Non-Superannuation Investors",
-                "People who answered survey"
-              ],
-              ["All", 14, 15, 15],
-              ["Female", 15, 18, 13],
-              ["Male", 16, 13, 15],
-              ["Non-Binary/Other", 1, 7, 20],
-              ["Gen-Z", 20, 20, 20],
-              ["Millennial", 15, 13, 13],
-              ["Gen X", 14, 17, 14],
-              ["Baby Boomers", 14, 17, 14],
-              ["Silent Generation", 6, 6, 8]
-            ]
-          },
-          "removed_stocks_chart": [
-            [
+            "columns": [
               "Type",
               "Superannuation Investors",
               "Non-Superannuation Investors",
               "People who answered survey"
             ],
-            ["All", 0.0863787375415282, 0.0825852782764811, 0.202755905511811],
-            ["Female", 0.155555555555555, 0.0895522388059701, 0.3125],
-            ["Male", 0.07421875, 0.0805687203791469, 0.18075117370892],
-            ["Non-Binary/Other", 0, 0, 1],
-            ["Gen-Z", 0, 0, 0.25],
-            [
-              "Millennial",
-              0.0564516129032258,
-              0.0980392156862745,
-              0.205298013245033
+            "data": [
+              ["All", 14, 15, 15],
+              ["Female", 15, 18, 14],
+              ["Male", 16, 13, 15],
+              ["Non-Binary/Other", 17, 17, 14],
+              ["Gen Z", 21, 21, 21],
+              ["Millenial", 15, 13, 14],
+              ["Gen X", 14, 17, 14],
+              ["Baby Boomers", 14, 18, 16],
+              ["Silent Generation", 6, 6, 8]
             ],
-            ["Gen X", 0.114285714285714, 0.052, 0.194444444444444],
-            [
-              "Baby Boomers",
-              0.0833333333333333,
-              0.119718309859154,
-              0.21259842519685
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
             ],
-            ["Silent Generation", 0, 0.125, 0.142857142857142]
-          ]
+            "data": [
+              ["All", 0.0891089109, 0.0822898032, 0.2373271889],
+              ["Female", 0.1555555556, 0.0888888889, 0.3472222222],
+              ["Male", 0.0775193798, 0.0803782506, 0.2138888889],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.2857142857],
+              ["Millenial", 0.0634920635, 0.0980392157, 0.25],
+              ["Gen X", 0.1142857143, 0.0515873016, 0.2295081967],
+              ["Baby Boomers", 0.0833333333, 0.1197183099, 0.2307692308],
+              ["Silent Generation", 0.0, 0.125, 0.25]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Animal Testing (Any)",
+          "more_info": "Removes companies that test products on animals according to Peta. NOTE: This will remove many healthcare companies who are mandated by law to test on animals. Healthcare makes up a relatively large proportion of our portfolios. The \"No Animal Testing (Worst Offenders)\" version only does not remove companies who test for medical reasons. ",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
         },
         {
-          "name": "No Animal Testing (Worst Offenders):",
-          "more_info": "Removes companies that test products on animals for non medical purposes.",
-          "answer_text": true,
           "popularity_chart": {
-            "message": "This filter is quite popular among our investors. It is more popular for Millennials, less popular for Silent Generation:",
-            "hAxis_data": "Ranking (1 = most popular)",
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
             "data": [
-              [
-                "Type",
-                "Superannuation Investors",
-                "Non-Superannuation Investors",
-                "People who answered survey"
-              ],
               ["All", 5, 6, 6],
               ["Female", 5, 10, 7],
               ["Male", 5, 5, 5],
-              ["Non-Binary/Other", 2, 6, 20],
-              ["Gen-Z", 13, 13, 13],
-              ["Millennial", 5, 5, 4],
-              ["Gen X", 5, 6, 6],
-              ["Baby Boomers", 8, 10, 7],
-              ["Silent Generation", 14, 14, 14]
-            ]
+              ["Gen Z", 11, 11, 11],
+              ["Millenial", 5, 5, 4],
+              ["Gen X", 5, 5, 6],
+              ["Baby Boomers", 8, 9, 8],
+              ["Silent Generation", 16, 16, 23]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
           },
-          "removed_stocks_chart": [
-            [
+          "removed_stocks_chart": {
+            "columns": [
               "Type",
               "Superannuation Investors",
               "Non-Superannuation Investors",
               "People who answered survey"
             ],
-            ["All", 0.225913621262458, 0.219030520646319, 0.37007874015748],
-            ["Female", 0.311111111111111, 0.231343283582089, 0.4625],
-            ["Male", 0.2109375, 0.21563981042654, 0.352112676056338],
-            ["Non-Binary/Other", 0, 0, 1],
-            ["Gen-Z", 0, 0, 0.375],
-            [
-              "Millennial",
-              0.209677419354838,
-              0.254901960784313,
-              0.403973509933774
+            "data": [
+              ["All", 0.2244224422, 0.2182468694, 0.435483871],
+              ["Female", 0.3111111111, 0.2296296296, 0.5138888889],
+              ["Male", 0.2093023256, 0.2151300236, 0.4194444444],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.2063492063, 0.2549019608, 0.5083333333],
+              ["Gen X", 0.2357142857, 0.1865079365, 0.4098360656],
+              ["Baby Boomers", 0.25, 0.2464788732, 0.4273504274],
+              ["Silent Generation", 0.0, 0.125, 0.0]
             ],
-            ["Gen X", 0.235714285714285, 0.188, 0.342592592592592],
-            ["Baby Boomers", 0.23, 0.246478873239436, 0.393700787401574],
-            ["Silent Generation", 0, 0.125, 0]
-          ]
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Animal Testing (Worst Offenders)",
+          "more_info": "Removes companies that test products on animals for non medical purposes",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
         }
-      ]
+      ],
+      "name": "Animal Rights"
     },
     {
-      "name": "War",
       "ethical_choice": [
         {
-          "name": "No Arms (Any):",
-          "more_info": "Removes companies that are known to directly produce weapons or ammunition.",
-          "answer_text": false,
           "popularity_chart": {
-            "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z:",
-            "hAxis_data": "Ranking (1 = most popular)",
-            "data": [
-              [
-                "Type",
-                "Superannuation Investors",
-                "Non-Superannuation Investors",
-                "People who answered survey"
-              ],
-              ["All", 14, 15, 15],
-              ["Female", 15, 18, 13],
-              ["Male", 16, 13, 15],
-              ["Non-Binary/Other", 1, 7, 20],
-              ["Gen-Z", 20, 20, 20],
-              ["Millennial", 15, 13, 13],
-              ["Gen X", 14, 17, 14],
-              ["Baby Boomers", 14, 17, 14],
-              ["Silent Generation", 6, 6, 8]
-            ]
-          },
-          "removed_stocks_chart": [
-            [
+            "columns": [
               "Type",
               "Superannuation Investors",
               "Non-Superannuation Investors",
               "People who answered survey"
             ],
-            ["All", 0.0863787375415282, 0.0825852782764811, 0.202755905511811],
-            ["Female", 0.155555555555555, 0.0895522388059701, 0.3125],
-            ["Male", 0.07421875, 0.0805687203791469, 0.18075117370892],
-            ["Non-Binary/Other", 0, 0, 1],
-            ["Gen-Z", 0, 0, 0.25],
-            [
-              "Millennial",
-              0.0564516129032258,
-              0.0980392156862745,
-              0.205298013245033
+            "data": [
+              ["All", 4, 5, 5],
+              ["Female", 8, 6, 5],
+              ["Male", 4, 6, 6],
+              ["Non-Binary/Other", 3, 3, 5],
+              ["Gen Z", 8, 7, 5],
+              ["Millenial", 4, 6, 5],
+              ["Gen X", 4, 4, 5],
+              ["Baby Boomers", 6, 7, 5],
+              ["Silent Generation", 10, 10, 3]
             ],
-            ["Gen X", 0.114285714285714, 0.052, 0.194444444444444],
-            [
-              "Baby Boomers",
-              0.0833333333333333,
-              0.119718309859154,
-              0.21259842519685
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
             ],
-            ["Silent Generation", 0, 0.125, 0.142857142857142]
-          ]
+            "data": [
+              ["All", 0.2310231023, 0.2254025045, 0.435483871],
+              ["Female", 0.2888888889, 0.2888888889, 0.6111111111],
+              ["Male", 0.2209302326, 0.2033096927, 0.3972222222],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 0.25, 0.7142857143],
+              ["Millenial", 0.2142857143, 0.2287581699, 0.4333333333],
+              ["Gen X", 0.2428571429, 0.1904761905, 0.4262295082],
+              ["Baby Boomers", 0.25, 0.2887323944, 0.4358974359],
+              ["Silent Generation", 0.0, 0.125, 0.375]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Coal Seam Gas or Fracking",
+          "more_info": "Removes companies who are involved in Coal Seam Gas extraction and fracking",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
         },
         {
-          "name": "No Arm (Worst Offenders):",
-          "more_info": "Removes companies that are known to produce cluster munitions and landmines.",
-          "answer_text": true,
           "popularity_chart": {
-            "message": "This filter is quite popular among our investors. It is more popular for Millennials, less popular for Silent Generation:",
-            "hAxis_data": "Ranking (1 = most popular)",
-            "data": [
-              [
-                "Type",
-                "Superannuation Investors",
-                "Non-Superannuation Investors",
-                "People who answered survey"
-              ],
-              ["All", 5, 6, 6],
-              ["Female", 5, 10, 7],
-              ["Male", 5, 5, 5],
-              ["Non-Binary/Other", 2, 6, 20],
-              ["Gen-Z", 13, 13, 13],
-              ["Millennial", 5, 5, 4],
-              ["Gen X", 5, 6, 6],
-              ["Baby Boomers", 8, 10, 7],
-              ["Silent Generation", 14, 14, 14]
-            ]
-          },
-          "removed_stocks_chart": [
-            [
+            "columns": [
               "Type",
               "Superannuation Investors",
               "Non-Superannuation Investors",
               "People who answered survey"
             ],
-            ["All", 0.225913621262458, 0.219030520646319, 0.37007874015748],
-            ["Female", 0.311111111111111, 0.231343283582089, 0.4625],
-            ["Male", 0.2109375, 0.21563981042654, 0.352112676056338],
-            ["Non-Binary/Other", 0, 0, 1],
-            ["Gen-Z", 0, 0, 0.375],
-            [
-              "Millennial",
-              0.209677419354838,
-              0.254901960784313,
-              0.403973509933774
+            "data": [
+              ["All", 11, 12, 11],
+              ["Female", 14, 12, 12],
+              ["Male", 8, 12, 11],
+              ["Non-Binary/Other", 4, 4, 6],
+              ["Gen Z", 1, 9, 20],
+              ["Millenial", 10, 10, 10],
+              ["Gen X", 7, 12, 9],
+              ["Baby Boomers", 16, 12, 14],
+              ["Silent Generation", 12, 12, 15]
             ],
-            ["Gen X", 0.235714285714285, 0.188, 0.342592592592592],
-            ["Baby Boomers", 0.23, 0.246478873239436, 0.393700787401574],
-            ["Silent Generation", 0, 0.125, 0]
-          ]
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1353135314, 0.14490161, 0.3064516129],
+              ["Female", 0.1555555556, 0.1925925926, 0.3888888889],
+              ["Male", 0.1317829457, 0.1276595745, 0.2861111111],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 0.25, 0.2857142857],
+              ["Millenial", 0.1031746032, 0.1568627451, 0.3416666667],
+              ["Gen X", 0.1785714286, 0.1031746032, 0.3278688525],
+              ["Baby Boomers", 0.0833333333, 0.2042253521, 0.2478632479],
+              ["Silent Generation", 0.0, 0.125, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Fossil Fuels (Any)",
+          "more_info": "Removes companies where more than 10% of the company is involved in coal, oil or gas",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 2, 2, 2],
+              ["Female", 4, 2, 2],
+              ["Male", 1, 2, 2],
+              ["Non-Binary/Other", 13, 13, 7],
+              ["Gen Z", 22, 22, 1],
+              ["Millenial", 1, 1, 1],
+              ["Gen X", 2, 2, 2],
+              ["Baby Boomers", 4, 5, 6],
+              ["Silent Generation", 2, 3, 16]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.3234323432, 0.2880143113, 0.5483870968],
+              ["Female", 0.3333333333, 0.3555555556, 0.6527777778],
+              ["Male", 0.3217054264, 0.2671394799, 0.5222222222],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.8571428571],
+              ["Millenial", 0.2936507937, 0.3333333333, 0.6333333333],
+              ["Gen X", 0.35, 0.253968254, 0.5683060109],
+              ["Baby Boomers", 0.3055555556, 0.3098591549, 0.4358974359],
+              ["Silent Generation", 1.0, 0.25, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Fossil Fuels (Worst Offenders)",
+          "more_info": "Removes the worst polluters, in particular, companies that use Lignite coal or create oil from Tar Sands",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 15, 13, 17],
+              ["Female", 16, 13, 13],
+              ["Male", 15, 16, 17],
+              ["Non-Binary/Other", 2, 2, 8],
+              ["Gen Z", 10, 10, 25],
+              ["Millenial", 17, 17, 13],
+              ["Gen X", 17, 16, 18],
+              ["Baby Boomers", 12, 13, 17],
+              ["Silent Generation", 15, 15, 24]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0858085809, 0.0894454383, 0.2235023041],
+              ["Female", 0.1111111111, 0.1333333333, 0.3472222222],
+              ["Male", 0.0813953488, 0.073286052, 0.1972222222],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 0.25, 0.1428571429],
+              ["Millenial", 0.0476190476, 0.0653594771, 0.25],
+              ["Gen X", 0.1, 0.0634920635, 0.2131147541],
+              ["Baby Boomers", 0.1666666667, 0.1549295775, 0.2307692308],
+              ["Silent Generation", 0.0, 0.125, 0.0]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Nuclear",
+          "more_info": "Removes companies with Nuclear power stations or producers of Uranium",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 3, 3, 3],
+              ["Female", 3, 4, 3],
+              ["Male", 3, 3, 3],
+              ["Non-Binary/Other", 5, 5, 9],
+              ["Gen Z", 7, 6, 9],
+              ["Millenial", 2, 3, 3],
+              ["Gen X", 3, 3, 3],
+              ["Baby Boomers", 3, 3, 4],
+              ["Silent Generation", 11, 11, 4]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.2838283828, 0.2790697674, 0.5299539171],
+              ["Female", 0.3777777778, 0.3259259259, 0.625],
+              ["Male", 0.2674418605, 0.2624113475, 0.5111111111],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 0.25, 0.5714285714],
+              ["Millenial", 0.2936507937, 0.2875816993, 0.5666666667],
+              ["Gen X", 0.2714285714, 0.253968254, 0.5300546448],
+              ["Baby Boomers", 0.3055555556, 0.323943662, 0.4957264957],
+              ["Silent Generation", 0.0, 0.125, 0.375]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Old Growth Forest Logging",
+          "more_info": "Remove companies that are involved with logging Old Growth Forests",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
         }
-      ]
+      ],
+      "name": "Climate Change"
+    },
+    {
+      "ethical_choice": [
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 17, 16, 13],
+              ["Female", 17, 17, 21],
+              ["Male", 17, 14, 13],
+              ["Non-Binary/Other", 14, 14, 10],
+              ["Gen Z", 23, 23, 23],
+              ["Millenial", 16, 14, 15],
+              ["Gen X", 15, 15, 13],
+              ["Baby Boomers", 20, 16, 15],
+              ["Silent Generation", 13, 13, 17]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0726072607, 0.0822898032, 0.2419354839],
+              ["Female", 0.1111111111, 0.0962962963, 0.2083333333],
+              ["Male", 0.0658914729, 0.0780141844, 0.2472222222],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.1428571429],
+              ["Millenial", 0.0555555556, 0.0784313725, 0.2416666667],
+              ["Gen X", 0.1, 0.0634920635, 0.2513661202],
+              ["Baby Boomers", 0.0277777778, 0.1197183099, 0.2393162393],
+              ["Silent Generation", 0.0, 0.125, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Fast Food",
+          "more_info": "Removes companies that produce sugar or fast food",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 19, 18, 18],
+              ["Female", 13, 14, 18],
+              ["Male", 19, 18, 18],
+              ["Non-Binary/Other", 15, 15, 11],
+              ["Gen Z", 19, 19, 19],
+              ["Millenial", 18, 15, 18],
+              ["Gen X", 18, 18, 16],
+              ["Baby Boomers", 19, 15, 19],
+              ["Silent Generation", 14, 14, 20]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0660066007, 0.0769230769, 0.202764977],
+              ["Female", 0.1555555556, 0.1185185185, 0.25],
+              ["Male", 0.0503875969, 0.0638297872, 0.1888888889],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0476190476, 0.0718954248, 0.2],
+              ["Gen X", 0.0928571429, 0.0476190476, 0.218579235],
+              ["Baby Boomers", 0.0277777778, 0.1338028169, 0.1709401709],
+              ["Silent Generation", 0.0, 0.125, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Genetically Modified Foods ",
+          "more_info": "Remove companies that grow food using Genetically Modified Organisms",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        }
+      ],
+      "name": "Health"
+    },
+    {
+      "ethical_choice": [
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 25, 25, 27],
+              ["Female", 26, 26, 25],
+              ["Male", 26, 25, 27],
+              ["Non-Binary/Other", 16, 16, 12],
+              ["Gen Z", 24, 24, 24],
+              ["Millenial", 26, 25, 27],
+              ["Gen X", 23, 27, 27],
+              ["Baby Boomers", 25, 25, 25]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0132013201, 0.0071556351, 0.034562212],
+              ["Female", 0.0222222222, 0.0074074074, 0.0972222222],
+              ["Male", 0.011627907, 0.0070921986, 0.0194444444],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.1428571429],
+              ["Millenial", 0.0, 0.0065359477, 0.025],
+              ["Gen X", 0.0285714286, 0.0, 0.0327868852],
+              ["Baby Boomers", 0.0, 0.0211267606, 0.0427350427]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "Lack of Gender Diversity",
+          "more_info": "Removes companies that have less than 20% of their board or board + top 5 executives being female. NOTE: This will remove many Japanese stocks from your portfolio.",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 24, 24, 24],
+              ["Female", 25, 25, 22],
+              ["Male", 24, 24, 24],
+              ["Non-Binary/Other", 8, 8, 13],
+              ["Gen Z", 16, 16, 16],
+              ["Millenial", 27, 21, 24],
+              ["Gen X", 24, 26, 24],
+              ["Baby Boomers", 23, 24, 23]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0165016502, 0.0143112701, 0.064516129],
+              ["Female", 0.0222222222, 0.0074074074, 0.1666666667],
+              ["Male", 0.015503876, 0.0165484634, 0.0416666667],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0, 0.0196078431, 0.05],
+              ["Gen X", 0.0285714286, 0.0, 0.0655737705],
+              ["Baby Boomers", 0.0277777778, 0.0352112676, 0.0598290598]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "Lack of Gender Diversity (Worst Offenders)",
+          "more_info": "Removes companies that have less than 10% of their board or board + top 5 executives being female. NOTE: This will remove many Japanese stocks from your portfolio.",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 21, 23, 22],
+              ["Female", 23, 23, 20],
+              ["Male", 20, 22, 21],
+              ["Non-Binary/Other", 9, 9, 1],
+              ["Gen Z", 14, 14, 14],
+              ["Millenial", 24, 24, 22],
+              ["Gen X", 20, 22, 22],
+              ["Baby Boomers", 21, 21, 21],
+              ["Silent Generation", 23, 23, 22]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0396039604, 0.023255814, 0.1175115207],
+              ["Female", 0.0444444444, 0.0444444444, 0.2083333333],
+              ["Male", 0.0387596899, 0.0165484634, 0.0972222222],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0079365079, 0.0130718954, 0.0916666667],
+              ["Gen X", 0.0714285714, 0.0158730159, 0.1147540984],
+              ["Baby Boomers", 0.0277777778, 0.0492957746, 0.1282051282],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Economically Repressed Countries (Any)",
+          "more_info": "Removes companies from countries that are not either \"Free\" or \"Mostly Free\" as assessed by the Index of Economic Freedom (Wall Street Journal and the Heritage Foundation). Note that this category removes many European Countries like Spain or France - the \"worst offenders\" version does not. Also removes companies where more than 20% of the company is owned by a government organization from a country that is not free or mostly free",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 13, 14, 14],
+              ["Female", 12, 16, 15],
+              ["Male", 11, 15, 14],
+              ["Non-Binary/Other", 7, 7, 22],
+              ["Gen Z", 12, 12, 4],
+              ["Millenial", 12, 18, 16],
+              ["Gen X", 11, 13, 17],
+              ["Baby Boomers", 13, 14, 11],
+              ["Silent Generation", 20, 20, 12]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1221122112, 0.084078712, 0.2396313364],
+              ["Female", 0.1777777778, 0.1111111111, 0.3472222222],
+              ["Male", 0.1124031008, 0.0756501182, 0.2166666667],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.7142857143],
+              ["Millenial", 0.0793650794, 0.0522875817, 0.2333333333],
+              ["Gen X", 0.15, 0.0753968254, 0.218579235],
+              ["Baby Boomers", 0.1666666667, 0.1408450704, 0.2564102564],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Economically Repressed Countries (Worst Offenders)",
+          "more_info": "Removes companies from countries that rate either \"Repressed\" or \"Mostly Unfree\" as assessed by the Index of Economic Freedom (Wall Street Journal and the Heritage Foundation). Also removes companies where more than 20% of the company is owned by a government organization from a country that is Repressed or Mostly Unfree",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 7, 4, 8],
+              ["Female", 11, 3, 9],
+              ["Male", 7, 4, 7],
+              ["Non-Binary/Other", 12, 12, 4],
+              ["Gen Z", 17, 17, 3],
+              ["Millenial", 8, 4, 8],
+              ["Gen X", 8, 6, 4],
+              ["Baby Boomers", 11, 2, 10],
+              ["Silent Generation", 4, 4, 5]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1551155116, 0.2432915921, 0.3870967742],
+              ["Female", 0.2222222222, 0.3333333333, 0.4166666667],
+              ["Male", 0.1434108527, 0.2151300236, 0.375],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.8571428571],
+              ["Millenial", 0.126984127, 0.2745098039, 0.375],
+              ["Gen X", 0.1714285714, 0.1865079365, 0.4371584699],
+              ["Baby Boomers", 0.1944444444, 0.323943662, 0.2991452991],
+              ["Silent Generation", 0.0, 0.125, 0.25]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Immigration Detention",
+          "more_info": "Removes companies involved in immigration detention centres",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 16, 11, 12],
+              ["Female", 20, 11, 16],
+              ["Male", 14, 10, 12],
+              ["Non-Binary/Other", 11, 11, 3],
+              ["Gen Z", 13, 13, 13],
+              ["Millenial", 14, 9, 12],
+              ["Gen X", 16, 11, 12],
+              ["Baby Boomers", 15, 11, 12],
+              ["Silent Generation", 5, 5, 6]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0825082508, 0.1592128801, 0.2857142857],
+              ["Female", 0.0888888889, 0.2148148148, 0.2916666667],
+              ["Male", 0.0813953488, 0.1418439716, 0.2833333333],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0634920635, 0.1764705882, 0.2916666667],
+              ["Gen X", 0.1, 0.1111111111, 0.2950819672],
+              ["Baby Boomers", 0.0833333333, 0.2323943662, 0.2564102564],
+              ["Silent Generation", 0.0, 0.125, 0.25]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Jails",
+          "more_info": "Removes companies involved in running jails",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 20, 22, 21],
+              ["Female", 19, 21, 19],
+              ["Male", 21, 23, 22],
+              ["Non-Binary/Other", 10, 10, 2],
+              ["Gen Z", 15, 15, 15],
+              ["Millenial", 22, 23, 23],
+              ["Gen X", 21, 21, 21],
+              ["Baby Boomers", 18, 22, 20],
+              ["Silent Generation", 17, 17, 21]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0396039604, 0.0268336315, 0.1221198157],
+              ["Female", 0.0888888889, 0.0592592593, 0.2361111111],
+              ["Male", 0.0310077519, 0.0165484634, 0.0972222222],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0158730159, 0.0196078431, 0.0916666667],
+              ["Gen X", 0.0571428571, 0.0198412698, 0.1202185792],
+              ["Baby Boomers", 0.0555555556, 0.0492957746, 0.1367521368],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Morally Repressed Countries (Any)",
+          "more_info": "Removes companies from countries that score below \"High Moral Freedom\" on the World Index of Moral Freedom. Note this category removes countries like Japan, Singapore, South Korea or China. Also removes companies where more than 20% of the company is owned by a government organization from a country that rates poorly.",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 12, 17, 16],
+              ["Female", 10, 15, 10],
+              ["Male", 12, 17, 16],
+              ["Non-Binary/Other", 21, 21, 19],
+              ["Gen Z", 25, 25, 6],
+              ["Millenial", 13, 16, 17],
+              ["Gen X", 10, 14, 15],
+              ["Baby Boomers", 9, 17, 13],
+              ["Silent Generation", 18, 18, 18]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1254125413, 0.0787119857, 0.2350230415],
+              ["Female", 0.2222222222, 0.1185185185, 0.3888888889],
+              ["Male", 0.1085271318, 0.0661938534, 0.2027777778],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.5714285714],
+              ["Millenial", 0.0714285714, 0.0718954248, 0.225],
+              ["Gen X", 0.15, 0.0634920635, 0.2240437158],
+              ["Baby Boomers", 0.2222222222, 0.1197183099, 0.2478632479],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Morally Repressed Countries (Worst Offenders)",
+          "more_info": "Removes companies from countries that rate \"Insufficient Moral Freedom\" or below as assessed by the World Index of Moral Freedom. Note this category removes countries like Singapore, South Korea or China. Also removes companies where more than 20% of the company is owned by a government organization from a country that has low or very low moral freedom. Religious freedom, bioethical freedom, drugs freedom, sexual freedom, and family and gender freedom are assessed. ",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 18, 20, 19],
+              ["Female", 18, 19, 17],
+              ["Male", 18, 20, 19],
+              ["Non-Binary/Other", 20, 20, 18],
+              ["Gen Z", 20, 20, 10],
+              ["Millenial", 21, 19, 20],
+              ["Gen X", 19, 19, 19],
+              ["Baby Boomers", 17, 19, 18],
+              ["Silent Generation", 19, 19, 7]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0660066007, 0.0465116279, 0.1797235023],
+              ["Female", 0.1111111111, 0.0666666667, 0.25],
+              ["Male", 0.0581395349, 0.0401891253, 0.1638888889],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.4285714286],
+              ["Millenial", 0.0317460317, 0.0392156863, 0.1333333333],
+              ["Gen X", 0.0928571429, 0.0436507937, 0.174863388],
+              ["Baby Boomers", 0.0833333333, 0.0633802817, 0.2136752137],
+              ["Silent Generation", 0.0, 0.0, 0.25]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Undemocratic Countries",
+          "more_info": "Removes companies from countries that score below 7 on the Democracy Index (from the Economist Intelligence Unit). Note this category removes some countries that are rated as Flawed Democracies like Singapore, Hong Kong or Brazil. Also removes companies where more than 20% of the company is owned by a government organization from a country that rates below 7.",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        }
+      ],
+      "name": "Human Rights"
+    },
+    {
+      "ethical_choice": [
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 26, 27, 26],
+              ["Female", 27, 27, 27],
+              ["Male", 25, 26, 26],
+              ["Millenial", 23, 27, 26],
+              ["Gen X", 27, 24, 25],
+              ["Baby Boomers", 24, 27, 27]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0099009901, 0.0017889088, 0.0391705069],
+              ["Female", 0.0, 0.0, 0.0555555556],
+              ["Male", 0.011627907, 0.0023640662, 0.0361111111],
+              ["Millenial", 0.0158730159, 0.0, 0.0416666667],
+              ["Gen X", 0.0071428571, 0.003968254, 0.0546448087],
+              ["Baby Boomers", 0.0, 0.0, 0.0170940171]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Contraception",
+          "more_info": "Removes companies that manufacture contraceptive products",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 27, 26, 25],
+              ["Female", 24, 24, 26],
+              ["Male", 27, 27, 25],
+              ["Millenial", 25, 26, 25],
+              ["Gen X", 26, 25, 26],
+              ["Baby Boomers", 27, 26, 26],
+              ["Silent Generation", 22, 22, 14]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0066006601, 0.0017889088, 0.0391705069],
+              ["Female", 0.0222222222, 0.0074074074, 0.0555555556],
+              ["Male", 0.003875969, 0.0, 0.0361111111],
+              ["Millenial", 0.0079365079, 0.0, 0.05],
+              ["Gen X", 0.0071428571, 0.0, 0.0382513661],
+              ["Baby Boomers", 0.0, 0.0070422535, 0.0256410256],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "Only Sharia / Islamic",
+          "more_info": "Confines your investment to companies within the MSCI AC World Islamic index",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        }
+      ],
+      "name": "Religion"
+    },
+    {
+      "ethical_choice": [
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 22, 19, 20],
+              ["Female", 21, 20, 23],
+              ["Male", 22, 19, 20],
+              ["Non-Binary/Other", 19, 19, 17],
+              ["Gen Z", 5, 4, 12],
+              ["Millenial", 19, 20, 19],
+              ["Gen X", 22, 20, 20],
+              ["Baby Boomers", 26, 20, 22],
+              ["Silent Generation", 3, 24, 11]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0363036304, 0.0483005367, 0.1359447005],
+              ["Female", 0.0666666667, 0.0592592593, 0.1388888889],
+              ["Male", 0.0310077519, 0.0449172577, 0.1305555556],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.75, 0.4285714286],
+              ["Millenial", 0.0476190476, 0.0326797386, 0.1666666667],
+              ["Gen X", 0.0357142857, 0.0396825397, 0.1256830601],
+              ["Baby Boomers", 0.0, 0.0633802817, 0.1025641026],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Alcohol",
+          "more_info": "Removes producers of alcohol",
+          "answer_text": true,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 23, 21, 23],
+              ["Female", 22, 22, 24],
+              ["Male", 23, 21, 23],
+              ["Gen Z", 3, 2, 22],
+              ["Millenial", 20, 22, 21],
+              ["Gen X", 25, 23, 23],
+              ["Baby Boomers", 22, 23, 24],
+              ["Silent Generation", 21, 21, 13]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.0264026403, 0.0286225403, 0.0829493088],
+              ["Female", 0.0666666667, 0.0518518519, 0.1111111111],
+              ["Male", 0.019379845, 0.0212765957, 0.0777777778],
+              ["Gen Z", null, 0.75, 0.1428571429],
+              ["Millenial", 0.0396825397, 0.0196078431, 0.125],
+              ["Gen X", 0.0142857143, 0.0158730159, 0.0765027322],
+              ["Baby Boomers", 0.0277777778, 0.0422535211, 0.0427350427],
+              ["Silent Generation", 0.0, 0.0, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Cannabis",
+          "more_info": "Removes companies that produce cannabis products",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 10, 9, 10],
+              ["Female", 7, 9, 11],
+              ["Male", 10, 9, 9],
+              ["Non-Binary/Other", 6, 6, 16],
+              ["Gen Z", 2, 1, 18],
+              ["Millenial", 9, 8, 9],
+              ["Gen X", 13, 9, 10],
+              ["Baby Boomers", 5, 10, 9],
+              ["Silent Generation", 8, 8, 10]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1452145215, 0.1806797853, 0.3640552995],
+              ["Female", 0.3111111111, 0.2518518519, 0.3888888889],
+              ["Male", 0.1162790698, 0.1560283688, 0.3555555556],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 1.0, 0.4285714286],
+              ["Millenial", 0.119047619, 0.1830065359, 0.375],
+              ["Gen X", 0.1357142857, 0.1349206349, 0.3278688525],
+              ["Baby Boomers", 0.2777777778, 0.2394366197, 0.4188034188],
+              ["Silent Generation", 0.0, 0.125, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Gambling",
+          "more_info": "Removes companies that have more than 5% of sales from gaming",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 8, 10, 9],
+              ["Female", 2, 5, 6],
+              ["Male", 13, 11, 10],
+              ["Non-Binary/Other", 18, 18, 15],
+              ["Gen Z", 4, 3, 17],
+              ["Millenial", 7, 11, 11],
+              ["Gen X", 12, 10, 11],
+              ["Baby Boomers", 7, 6, 3],
+              ["Silent Generation", 9, 9, 1]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1518151815, 0.175313059, 0.3801843318],
+              ["Female", 0.4444444444, 0.2962962963, 0.5416666667],
+              ["Male", 0.1007751938, 0.1371158392, 0.3444444444],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.75, 0.4285714286],
+              ["Millenial", 0.1349206349, 0.1437908497, 0.3333333333],
+              ["Gen X", 0.1428571429, 0.119047619, 0.2950819672],
+              ["Baby Boomers", 0.25, 0.2957746479, 0.5213675214],
+              ["Silent Generation", 0.0, 0.125, 0.875]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Pornography",
+          "more_info": "Removes companies where pornography comprises more than 10% of revenue",
+          "answer_text": true,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 6, 7, 4],
+              ["Female", 9, 7, 8],
+              ["Male", 6, 7, 4],
+              ["Gen Z", 6, 5, 8],
+              ["Millenial", 6, 7, 7],
+              ["Gen X", 6, 8, 8],
+              ["Baby Boomers", 2, 4, 2],
+              ["Silent Generation", 24, 2, 2]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1947194719, 0.2146690519, 0.4423963134],
+              ["Female", 0.2666666667, 0.2814814815, 0.4444444444],
+              ["Male", 0.1821705426, 0.1938534279, 0.4416666667],
+              ["Gen Z", null, 0.75, 0.5714285714],
+              ["Millenial", 0.1746031746, 0.1960784314, 0.3916666667],
+              ["Gen X", 0.1857142857, 0.1626984127, 0.3770491803],
+              ["Baby Boomers", 0.3055555556, 0.3098591549, 0.5726495726],
+              ["Silent Generation", 0.0, 0.25, 0.625]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Tobacco",
+          "more_info": "Removes companies that manufacture Tobacco products",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        }
+      ],
+      "name": "Vices"
+    },
+    {
+      "ethical_choice": [
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 9, 8, 7],
+              ["Female", 6, 8, 4],
+              ["Male", 9, 8, 8],
+              ["Non-Binary/Other", 1, 1, 21],
+              ["Gen Z", 9, 8, 7],
+              ["Millenial", 11, 12, 6],
+              ["Gen X", 9, 7, 7],
+              ["Baby Boomers", 10, 8, 7],
+              ["Silent Generation", 7, 7, 9]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.1452145215, 0.1878354204, 0.4078341014],
+              ["Female", 0.3111111111, 0.2518518519, 0.625],
+              ["Male", 0.1162790698, 0.1654846336, 0.3638888889],
+              ["Non-Binary/Other", null, 1.0, 1.0],
+              ["Gen Z", null, 0.25, 0.5714285714],
+              ["Millenial", 0.0952380952, 0.137254902, 0.425],
+              ["Gen X", 0.1714285714, 0.1746031746, 0.3825136612],
+              ["Baby Boomers", 0.2222222222, 0.2676056338, 0.4273504274],
+              ["Silent Generation", 0.0, 0.125, 0.25]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Arms (Any)",
+          "more_info": "Removes companies that are known to directly produce weapons or ammunition",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        },
+        {
+          "popularity_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 1, 1, 1],
+              ["Female", 1, 1, 1],
+              ["Male", 2, 1, 1],
+              ["Non-Binary/Other", 22, 22, 20],
+              ["Gen Z", 18, 18, 2],
+              ["Millenial", 3, 2, 2],
+              ["Gen X", 1, 1, 1],
+              ["Baby Boomers", 1, 1, 1],
+              ["Silent Generation", 1, 1, 19]
+            ],
+            "hAxis_data": "Ranking (1 = most popular)"
+          },
+          "removed_stocks_chart": {
+            "columns": [
+              "Type",
+              "Superannuation Investors",
+              "Non-Superannuation Investors",
+              "People who answered survey"
+            ],
+            "data": [
+              ["All", 0.3333333333, 0.3273703041, 0.6221198157],
+              ["Female", 0.5111111111, 0.4296296296, 0.7916666667],
+              ["Male", 0.3023255814, 0.2955082742, 0.5861111111],
+              ["Non-Binary/Other", null, 0.0, 1.0],
+              ["Gen Z", null, 0.0, 0.8571428571],
+              ["Millenial", 0.2777777778, 0.3202614379, 0.5833333333],
+              ["Gen X", 0.3571428571, 0.2857142857, 0.650273224],
+              ["Baby Boomers", 0.4166666667, 0.4154929577, 0.6324786325],
+              ["Silent Generation", 1.0, 0.375, 0.125]
+            ],
+            "hAxis_data": "Proportion selecting this option"
+          },
+          "name": "No Arms (Worst Offenders)",
+          "more_info": "Removes companies that are known to produce cluster munitions and landmines",
+          "answer_text": false,
+          "message": "This filter is of average popularity among our investors. It is more popular for the Silent Generation, less popular for Gen Z"
+        }
+      ],
+      "name": "War"
+    },
+    {
+      "ethical_choice": [],
+      "name": null
     }
   ]
 }
