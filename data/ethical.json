@@ -46,7 +46,7 @@
           "name": "No Animal Testing (Any)",
           "more_info": "Removes companies that test products on animals according to Peta. NOTE: This will remove many healthcare companies who are mandated by law to test on animals. Healthcare makes up a relatively large proportion of our portfolios. The \"No Animal Testing (Worst Offenders)\" version only does not remove companies who test for medical reasons. ",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Silent Generation, less popular among Gen Z"
+          "message": "This filter is of average popularity among our investors. It is more popular among Silent Generation, less popular among Gen Z"
         },
         {
           "popularity_chart": {
@@ -90,7 +90,7 @@
           "name": "No Animal Testing (Worst Offenders)",
           "more_info": "Removes companies that test products on animals for non medical purposes",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Silent Generation."
+          "message": "This filter is commonly selected by our investors. It is more popular among Millenial, less popular among Silent Generation"
         }
       ],
       "name": "Animal Rights"
@@ -141,7 +141,7 @@
           "name": "No Coal Seam Gas or Fracking",
           "more_info": "Removes companies who are involved in Coal Seam Gas extraction and fracking",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Silent Generation."
+          "message": "This filter is commonly selected by our investors. It is more popular among Gen X, less popular among Silent Generation"
         },
         {
           "popularity_chart": {
@@ -187,7 +187,7 @@
           "name": "No Fossil Fuels (Any)",
           "more_info": "Removes companies where more than 10% of the company is involved in coal, oil or gas",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is popular among your age group and less popular among Baby Boomers."
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen X, less popular among Baby Boomers"
         },
         {
           "popularity_chart": {
@@ -233,7 +233,7 @@
           "name": "No Fossil Fuels (Worst Offenders)",
           "more_info": "Removes the worst polluters, in particular, companies that use Lignite coal or create oil from Tar Sands",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Gen Z."
+          "message": "This filter is commonly selected by our investors. It is more popular among Millenial, less popular among Gen Z"
         },
         {
           "popularity_chart": {
@@ -279,7 +279,7 @@
           "name": "No Nuclear",
           "more_info": "Removes companies with Nuclear power stations or producers of Uranium",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Female, less popular among Silent Generation"
+          "message": "This filter is of average popularity among our investors. It is more popular among Female, less popular among Silent Generation"
         },
         {
           "popularity_chart": {
@@ -325,7 +325,7 @@
           "name": "No Old Growth Forest Logging",
           "more_info": "Remove companies that are involved with logging Old Growth Forests",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Silent Generation."
+          "message": "This filter is commonly selected by our investors. It is more popular among Millenial, less popular among Silent Generation"
         }
       ],
       "name": "Climate Change"
@@ -376,7 +376,7 @@
           "name": "No Fast Food",
           "more_info": "Removes companies that produce sugar or fast food",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Gen X, less popular among Gen Z"
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen X, less popular among Gen Z"
         },
         {
           "popularity_chart": {
@@ -422,7 +422,7 @@
           "name": "No Genetically Modified Foods ",
           "more_info": "Remove companies that grow food using Genetically Modified Organisms",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Female, less popular among Gen Z"
+          "message": "This filter is of average popularity among our investors. It is more popular among Female, less popular among Gen Z"
         }
       ],
       "name": "Health"
@@ -471,7 +471,7 @@
           "name": "Lack of Gender Diversity",
           "more_info": "Removes companies that have less than 20% of their board or board + top 5 executives being female. NOTE: This will remove many Japanese stocks from your portfolio.",
           "answer_text": false,
-          "message": "This filter is less frequently chosen by our investors. It is less popular among your age group and more popular among Gen Z. "
+          "message": "This filter is is less frequently chosen by our investors. It is more popular among Gen Z, less popular among Millenial"
         },
         {
           "popularity_chart": {
@@ -515,7 +515,7 @@
           "name": "Lack of Gender Diversity (Worst Offenders)",
           "more_info": "Removes companies that have less than 10% of their board or board + top 5 executives being female. NOTE: This will remove many Japanese stocks from your portfolio.",
           "answer_text": false,
-          "message": "This filter is less frequently chosen by our investors. It is less popular among your age group and more popular among Gen Z. "
+          "message": "This filter is is less frequently chosen by our investors. It is more popular among Gen Z, less popular among Gen X"
         },
         {
           "popularity_chart": {
@@ -561,7 +561,7 @@
           "name": "No Economically Repressed Countries (Any)",
           "more_info": "Removes companies from countries that are not either \"Free\" or \"Mostly Free\" as assessed by the Index of Economic Freedom (Wall Street Journal and the Heritage Foundation). Note that this category removes many European Countries like Spain or France - the \"worst offenders\" version does not. Also removes companies where more than 20% of the company is owned by a government organization from a country that is not free or mostly free",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is less popular among your age group and more popular among Gen Z. "
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen Z, less popular among Millenial"
         },
         {
           "popularity_chart": {
@@ -607,7 +607,7 @@
           "name": "No Economically Repressed Countries (Worst Offenders)",
           "more_info": "Removes companies from countries that rate either \"Repressed\" or \"Mostly Unfree\" as assessed by the Index of Economic Freedom (Wall Street Journal and the Heritage Foundation). Also removes companies where more than 20% of the company is owned by a government organization from a country that is Repressed or Mostly Unfree",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Gen Z, less popular among Silent Generation"
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen Z, less popular among Silent Generation"
         },
         {
           "popularity_chart": {
@@ -653,7 +653,7 @@
           "name": "No Immigration Detention",
           "more_info": "Removes companies involved in immigration detention centres",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Gen Z."
+          "message": "This filter is commonly selected by our investors. It is more popular among Silent Generation, less popular among Gen Z"
         },
         {
           "popularity_chart": {
@@ -699,7 +699,7 @@
           "name": "No Jails",
           "more_info": "Removes companies involved in running jails",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Silent Generation, less popular among Female"
+          "message": "This filter is of average popularity among our investors. It is more popular among Silent Generation, less popular among Female"
         },
         {
           "popularity_chart": {
@@ -745,7 +745,7 @@
           "name": "No Morally Repressed Countries (Any)",
           "more_info": "Removes companies from countries that score below \"High Moral Freedom\" on the World Index of Moral Freedom. Note this category removes countries like Japan, Singapore, South Korea or China. Also removes companies where more than 20% of the company is owned by a government organization from a country that rates poorly.",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Gen Z, less popular among Millenial"
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen Z, less popular among Millenial"
         },
         {
           "popularity_chart": {
@@ -791,7 +791,7 @@
           "name": "No Morally Repressed Countries (Worst Offenders)",
           "more_info": "Removes companies from countries that rate \"Insufficient Moral Freedom\" or below as assessed by the World Index of Moral Freedom. Note this category removes countries like Singapore, South Korea or China. Also removes companies where more than 20% of the company is owned by a government organization from a country that has low or very low moral freedom. Religious freedom, bioethical freedom, drugs freedom, sexual freedom, and family and gender freedom are assessed. ",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Female, less popular among Gen Z"
+          "message": "This filter is of average popularity among our investors. It is more popular among Female, less popular among Gen Z"
         },
         {
           "popularity_chart": {
@@ -837,7 +837,7 @@
           "name": "No Undemocratic Countries",
           "more_info": "Removes companies from countries that score below 7 on the Democracy Index (from the Economist Intelligence Unit). Note this category removes some countries that are rated as Flawed Democracies like Singapore, Hong Kong or Brazil. Also removes companies where more than 20% of the company is owned by a government organization from a country that rates below 7.",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Silent Generation, less popular among Millenial"
+          "message": "This filter is of average popularity among our investors. It is more popular among Silent Generation, less popular among Millenial"
         }
       ],
       "name": "Human Rights"
@@ -882,7 +882,7 @@
           "name": "No Contraception",
           "more_info": "Removes companies that manufacture contraceptive products",
           "answer_text": false,
-          "message": "This filter is less frequently chosen by our investors. It is less popular among your age group and more popular among Millenial. "
+          "message": "This filter is is less frequently chosen by our investors. It is more popular among Millenial, less popular among Female"
         },
         {
           "popularity_chart": {
@@ -924,7 +924,7 @@
           "name": "Only Sharia / Islamic",
           "more_info": "Confines your investment to companies within the MSCI AC World Islamic index",
           "answer_text": false,
-          "message": "This filter is less frequently chosen by our investors. It is less popular among your age group and more popular among Silent Generation. "
+          "message": "This filter is is less frequently chosen by our investors. It is more popular among Silent Generation, less popular among Baby Boomers"
         }
       ],
       "name": "Religion"
@@ -975,7 +975,7 @@
           "name": "No Alcohol",
           "more_info": "Removes producers of alcohol",
           "answer_text": true,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Gen Z, less popular among Baby Boomers"
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen Z, less popular among Baby Boomers"
         },
         {
           "popularity_chart": {
@@ -1019,7 +1019,7 @@
           "name": "No Cannabis",
           "more_info": "Removes companies that produce cannabis products",
           "answer_text": false,
-          "message": "This filter is of average popularity among our investors. It is of average popularity among your age group. It is more popular among Gen Z, less popular among Gen X"
+          "message": "This filter is of average popularity among our investors. It is more popular among Gen Z, less popular among Gen X"
         },
         {
           "popularity_chart": {
@@ -1065,7 +1065,7 @@
           "name": "No Gambling",
           "more_info": "Removes companies that have more than 5% of sales from gaming",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Gen X."
+          "message": "This filter is commonly selected by our investors. It is more popular among Gen Z, less popular among Gen X"
         },
         {
           "popularity_chart": {
@@ -1111,7 +1111,7 @@
           "name": "No Pornography",
           "more_info": "Removes companies where pornography comprises more than 10% of revenue",
           "answer_text": true,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Male."
+          "message": "This filter is commonly selected by our investors. It is more popular among Female, less popular among Male"
         },
         {
           "popularity_chart": {
@@ -1155,7 +1155,7 @@
           "name": "No Tobacco",
           "more_info": "Removes companies that manufacture Tobacco products",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Silent Generation."
+          "message": "This filter is commonly selected by our investors. It is more popular among Baby Boomers, less popular among Silent Generation"
         }
       ],
       "name": "Vices"
@@ -1206,7 +1206,7 @@
           "name": "No Arms (Any)",
           "more_info": "Removes companies that are known to directly produce weapons or ammunition",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Millenial."
+          "message": "This filter is commonly selected by our investors. It is more popular among Female, less popular among Millenial"
         },
         {
           "popularity_chart": {
@@ -1252,7 +1252,7 @@
           "name": "No Arms (Worst Offenders)",
           "more_info": "Removes companies that are known to produce cluster munitions and landmines",
           "answer_text": false,
-          "message": "This filter is commonly selected by our investors. It is popular among your age group and less popular among Gen Z."
+          "message": "This filter is commonly selected by our investors. It is more popular among Female, less popular among Gen Z"
         }
       ],
       "name": "War"
