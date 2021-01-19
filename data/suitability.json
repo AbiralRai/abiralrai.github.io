@@ -1,155 +1,847 @@
 {
-  "text_qualification": "We have assessed these for investments not within superannuation. To see within superannuation ",
-  "text_answer_heading": "Based on your answers, the following providers may be suitable: ",
-  "notification": "Click the structure/provider above to see why it is/is not suitable",
-  "categories": [
+  "answers": [
     {
-      "name": "21st Century Structures",
-      "subcategories": [
+      "question": "How much do you know about investing?",
+      "answer": "I'm knowledgeable, but wouldn't consider myself an expert",
+      "options": [
         {
-          "name": "Nucleus Wealth",
-          "id": 1,
-          "suitability": "YES",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I don't have any experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I don't have any experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": null,
+          "text": null
         },
         {
-          "name": "Online Broker",
-          "id": 2,
-          "suitability": "NO",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I have alot of experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": null,
+          "text": null
         },
         {
-          "name": "Robo Advise",
-          "id": 3,
-          "suitability": "UNSURE",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I have an average amount of experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": null,
+          "text": null
         }
       ]
     },
     {
-      "name": "Traditional Structures",
-      "subcategories": [
+      "question": "How much control do you want to have over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+      "answer": "I want full control",
+      "options": [
         {
-          "name": "Stock Broker",
-          "id": 4,
-          "suitability": "YES",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I have an average amount of experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": null,
+          "text": null
         },
         {
-          "name": "Financial Planner",
-          "id": 5,
-          "suitability": "NO",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I have an average amount of experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": null,
+          "text": null
         },
         {
-          "name": "Managed Funds/Listed Invest. Companies",
-          "id": 6,
-          "suitability": "NO",
-          "reasons": [
-            {
-              "question_id": 1,
-              "question_text": "How much do you know about investing",
-              "answer_id": 3,
-              "answer_text": "I have an average amount of experience",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            },
-            {
-              "question_id": 2,
-              "question_text": "How much control do you want over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
-              "answer_id": 3,
-              "answer_text": "I want to help choose the investment manager/product, but then I don't mind not having control",
-              "reason_text": "Some text to explain why suitable/not suitable"
-            }
-          ]
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": "10",
+          "text": "Robo Advisers typically do not give the level of customisation over asset allocation that you are looking for."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": "10",
+          "text": "Superannuation funds typically do not give the level of customisation over asset allocation that you are looking for."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": "10",
+          "text": "Robo Advisers typically do not give the level of customisation over asset allocation that you are looking for."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": null,
+          "text": null
+        }
+      ]
+    },
+    {
+      "question": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+      "answer": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+      "options": [
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": "5",
+          "text": "Online brokers are typically for someone looking for a lot of control over individual investments. Your answer suggests that you may instead be looking for a professional to help you manage your investment, if so an online broker may not be appropriate."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": "10",
+          "text": "Robo Advisers typically do not give the level of customisation over individual investments that you are looking for."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": "10",
+          "text": "Exchange Traded Funds buy a basket of stocks for you. You cannot change the basket."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": "5",
+          "text": "Superannuation funds typically do not give the level of customisation over individual investments that you are looking for. Some allow investors to add stocks to the portfolio, but with tight restrictions. They do not allow you to exclude stocks / sectors."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": "8",
+          "text": "Very few financial planners provide the level of control over investments you are looking for."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": "10",
+          "text": "Managed funds or Listed Investment Companies buy a basket of stocks for you. You cannot change the basket."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": "5",
+          "text": "Online brokers are typically for someone looking for a lot of control over individual investments. Your answer suggests that you may instead be looking for a professional to help you manage your investment, if so an online broker may not be appropriate."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": "10",
+          "text": "Robo Advisers typically do not give the level of customisation over individual investments that you are looking for."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": "8",
+          "text": "Very few financial planners provide the level of control over investments you are looking for."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": "10",
+          "text": "Exchange Traded Funds buy a basket of stocks for you. You cannot change the basket."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": "8",
+          "text": "Very few financial planners provide the level of control over investments you are looking for."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": "10",
+          "text": "Managed funds or Listed Investment Companies buy a basket of stocks for you. You cannot change the basket."
+        }
+      ]
+    },
+    {
+      "question": "How much transparency do you want into what you own?",
+      "answer": "I want to know the asset allocation (i.e. am I invested in stocks or bonds or private equity etc), but don't care if I don't see the details. I don't mind if it is out of date and only (say) every three months.",
+      "options": [
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": "3",
+          "text": "Superannation funds may provide the asset allocation. Some superannuation funds have their own definition, which can differ to common assessments - for example some funds call unlisted assets defensive, many investors disagree."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": null,
+          "text": null
+        }
+      ]
+    },
+    {
+      "question": "How much are you willing to pay?",
+      "answer": "up to 1.0%",
+      "options": [
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": "4",
+          "text": "Nucleus Super fees tend to be a little over 1%, although they are lower than 1% for larger balances. "
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": "5",
+          "text": "SMSFs have fixed accounting / admin costs each year. Some robo advisers may fit into your cost range. You may need to check the fees to confirm. Make sure that you include the Indirect Cost Ratio, also known as the ICR. Many robo advisers will not explicitly show this cost."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": "4",
+          "text": "The fees on exchange traded funds vary widely. Most funds that buy assets on developed stock markets like the S&P 500 or the ASX 200 index tend to be less than 0.5%. Some funds are considerably more expensive. An SMSF will likely also cost you $1,000 to $5,000 in additional accountancy and compliance costs."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": "7",
+          "text": "Stockbrokers typically cost more than this. An SMSF will likely also cost you $1,000 to $5,000 in additional accountancy and compliance costs."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": "10",
+          "text": "Financial Planners typically cost more than your cost range. An SMSF will likely also cost you $1,000 to $5,000 in additional accountancy and compliance costs."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": "2",
+          "text": "The fees on Managed funds or Listed Investment Companies vary widely. Some funds are less than 1%. Many are more expensive. An SMSF will likely also cost you $1,000 to $5,000 in additional accountancy and compliance costs."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": "1",
+          "text": "Most robo advisers will fit into your cost range. You may need to check the fees to confirm. Make sure that you include the Indirect Cost Ratio, also known as the ICR. Many robo advisers will not explicitly show this cost."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": "10",
+          "text": "Financial Planners typically cost more than your cost range."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": "3",
+          "text": "The fees on exchange traded funds vary widely. Most funds that buy assets on developed stock markets like the S&P 500 or the ASX 200 index tend to be less than 0.5%. Some funds are considerably more expensive."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": "7",
+          "text": "Stockbrokers typically cost more than this."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": "10",
+          "text": "Financial Planners typically cost more than your cost range."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": "2",
+          "text": "The fees on Managed funds or Listed Investment Companies vary widely. Some funds are less than 1%. Many are more expensive."
+        }
+      ]
+    },
+    {
+      "question": "How much do you have to invest?",
+      "answer": "Less than $500,000",
+      "options": [
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Super",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Online broker",
+          "score": "3",
+          "text": "SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Robo Advisor",
+          "score": "3",
+          "text": "SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": true,
+          "category": "21st Century Structures",
+          "subcategory": "SMSF with Exchange Traded Funds",
+          "score": "3",
+          "text": "SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "Traditional Superannuation Fund",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Stock broker",
+          "score": "4",
+          "text": "Many stock brokers will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a stock broker won't take you on as a client or will give you a reduced service product. SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Financial Planner",
+          "score": "4",
+          "text": "Many financial planners will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a financial planner won't take you on as a client or will give you a reduced service product. SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": true,
+          "category": "20th Century Structures",
+          "subcategory": "SMSF with Managed Funds",
+          "score": "4",
+          "text": "SMSFs have fixed accounting / admin costs each year. ASIC suggests less than $500,000 in assets may be inappropriately small to successfully run an SMSF."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Nucleus Wealth",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Online Broker",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Robo Adviser",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Financial Planner using SMAs",
+          "score": "3",
+          "text": "Many financial planners will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a financial planner won't take you on as a client or will give you a reduced service product."
+        },
+        {
+          "is_superannuation": false,
+          "category": "21st Century Structures",
+          "subcategory": "Exchange Traded Funds (ETFs)",
+          "score": null,
+          "text": null
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Stock broker",
+          "score": "3",
+          "text": "Many stock brokers will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a stock broker won't take you on as a client or will give you a reduced service product."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Financial Planner",
+          "score": "3",
+          "text": "Many financial planners will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a financial planner won't take you on as a client or will give you a reduced service product."
+        },
+        {
+          "is_superannuation": false,
+          "category": "20th Century Structures",
+          "subcategory": "Managed Funds/ Listed Invest. Companies",
+          "score": null,
+          "text": null
+        }
+      ]
+    }
+  ],
+  "suitability": [
+    {
+      "category": "21st Century Structures",
+      "subcategory": "Nucleus Wealth",
+      "suitability": true,
+      "reasons": []
+    },
+    {
+      "category": "21st Century Structures",
+      "subcategory": "Online Broker",
+      "suitability": null,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Online brokers are typically for someone looking for a lot of control over individual investments. Your answer suggests that you may instead be looking for a professional to help you manage your investment, if so an online broker may not be appropriate."
+        }
+      ]
+    },
+    {
+      "category": "21st Century Structures",
+      "subcategory": "Robo Adviser",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over your asset allocation (i.e. whether the underlying investments are in stocks or bonds or other investments)?",
+          "answer_text": "I want full control",
+          "reason_text": "Robo Advisers typically do not give the level of customisation over asset allocation that you are looking for."
+        },
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Robo Advisers typically do not give the level of customisation over individual investments that you are looking for."
+        },
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "Most robo advisers will fit into your cost range. You may need to check the fees to confirm. Make sure that you include the Indirect Cost Ratio, also known as the ICR. Many robo advisers will not explicitly show this cost."
+        }
+      ]
+    },
+    {
+      "category": "21st Century Structures",
+      "subcategory": "Financial Planner using SMAs",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Very few financial planners provide the level of control over investments you are looking for."
+        },
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "Financial Planners typically cost more than your cost range."
+        },
+        {
+          "question_text": "How much do you have to invest?",
+          "answer_text": "Less than $500,000",
+          "reason_text": "Many financial planners will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a financial planner won't take you on as a client or will give you a reduced service product."
+        }
+      ]
+    },
+    {
+      "category": "21st Century Structures",
+      "subcategory": "Exchange Traded Funds (ETFs)",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Exchange Traded Funds buy a basket of stocks for you. You cannot change the basket."
+        },
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "The fees on exchange traded funds vary widely. Most funds that buy assets on developed stock markets like the S&P 500 or the ASX 200 index tend to be less than 0.5%. Some funds are considerably more expensive."
+        }
+      ]
+    },
+    {
+      "category": "20th Century Structures",
+      "subcategory": "Stock broker",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "Stockbrokers typically cost more than this."
+        },
+        {
+          "question_text": "How much do you have to invest?",
+          "answer_text": "Less than $500,000",
+          "reason_text": "Many stock brokers will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a stock broker won't take you on as a client or will give you a reduced service product."
+        }
+      ]
+    },
+    {
+      "category": "20th Century Structures",
+      "subcategory": "Financial Planner",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Very few financial planners provide the level of control over investments you are looking for."
+        },
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "Financial Planners typically cost more than your cost range."
+        },
+        {
+          "question_text": "How much do you have to invest?",
+          "answer_text": "Less than $500,000",
+          "reason_text": "Many financial planners will not deal with clients who have under $500,000 in investments. With your investment level, you may find that a financial planner won't take you on as a client or will give you a reduced service product."
+        }
+      ]
+    },
+    {
+      "category": "20th Century Structures",
+      "subcategory": "Managed Funds/ Listed Invest. Companies",
+      "suitability": false,
+      "reasons": [
+        {
+          "question_text": "How much control do you want to have over the individual investments (eg stocks or bonds)?",
+          "answer_text": "I would like a professional to work out which stocks to buy, but I want to be able to veto stocks or make small changes",
+          "reason_text": "Managed funds or Listed Investment Companies buy a basket of stocks for you. You cannot change the basket."
+        },
+        {
+          "question_text": "How much are you willing to pay?",
+          "answer_text": "up to 1.0%",
+          "reason_text": "The fees on Managed funds or Listed Investment Companies vary widely. Some funds are less than 1%. Many are more expensive."
         }
       ]
     }
